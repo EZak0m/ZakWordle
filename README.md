@@ -1,0 +1,2 @@
+# ZakWordle
+ChatGptで作られたWordle
